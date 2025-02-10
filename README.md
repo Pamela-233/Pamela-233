@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+一个全栈设计师，BASE在济南。做过7年开发，5年产品经理，4年项目经理。欢迎给我**发邮件**或在Twitter**DM**。
 <!--
 **Pamela-233/Pamela-233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
