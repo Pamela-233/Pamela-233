@@ -4,7 +4,7 @@
 
 
 ### Skills
----
+--
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
 </a>
@@ -25,6 +25,15 @@
 
 <a href="https://www.coursera.org/professional-certificates/google-project-management" target="_blank">
   <img src="https://img.shields.io/badge/Google_Project_Management-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Project Management"/>
+</a>
+
+Status
+--
+<a href="mailto:hongpamela2942@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white" alt="Google Email"/>
+</a>
+<a href="https://twitter.com/Pamela_2942" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 
 
